@@ -135,7 +135,7 @@ for (let i = 0; i < formInputs.length; i++) {
 }
 // Resume
 document.getElementById("resumeButton").addEventListener("click", function() {
-  window.location.href = "https://drive.google.com/file/d/1GG2bturSzHlhYOo7-p5LvJ8frYX3cPZr/view?usp=drive_link"; // link-resume
+  window.location.href = "https://drive.google.com/file/d/1GG2bturSzHlhYOo7-p5LvJ8frYX3cPZr/view?usp=sharing"; // link-resume
 });
   
 
