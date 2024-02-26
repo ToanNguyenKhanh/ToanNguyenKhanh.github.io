@@ -135,8 +135,7 @@ for (let i = 0; i < formInputs.length; i++) {
 }
 // Resume
 document.getElementById("resumeButton").addEventListener("click", function() {
-  window.location.href = "https://drive.google.com/file/d/1Fekkr7JsGI3TwX6dWfyM1i82VjxNEXAK/view?usp=sharing"; // Thay link_den_file_resume_cua_ban bằng đường dẫn đến file resume của bạn
-});
+  window.location.href = "https://drive.google.com/file/d/1Fekkr7JsGI3TwX6dWfyM1i82VjxNEXAK/view?usp=sharing"; // link resume
 
 
 
